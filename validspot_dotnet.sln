@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validspot", "validspot.csproj", "{9991E01C-2943-2B66-6509-B0CC8905A8EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9991E01C-2943-2B66-6509-B0CC8905A8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9991E01C-2943-2B66-6509-B0CC8905A8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9991E01C-2943-2B66-6509-B0CC8905A8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9991E01C-2943-2B66-6509-B0CC8905A8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C91A34-2820-4BDB-B05D-43BCA2F51E5A}
+	EndGlobalSection
+EndGlobal
